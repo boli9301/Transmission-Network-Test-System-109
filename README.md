@@ -4,4 +4,4 @@
 该算例为IEEE case形式，可使用matpower程序包运行该程序。
 #
 
-如果对该算例有疑问，请联系 黎博，广西大学，邮箱boli@gxu.edu.cn
+如果对该算例有疑问，请联系 XX，XX，邮箱XX
